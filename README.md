@@ -54,3 +54,7 @@ locale/*.json      插件列表里的标题和说明
 docs/DETAIL.md     插件详情页
 icon.svg           图标
 ```
+
+## 许可
+
+MIT，见 [LICENSE](LICENSE)。
