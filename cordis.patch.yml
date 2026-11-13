@@ -1,0 +1,3 @@
+- insert:
+    - id: plugin-watch
+      name: dsh-plugin-watch

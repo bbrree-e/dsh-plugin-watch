@@ -1,0 +1,7 @@
+{
+  "meta": {
+    "title": "Plugin version check",
+    "description": "Checks every installed plugin for a newer release once a day, and shows installed, latest, and status in Settings.",
+    "detail": "docs/DETAIL.md"
+  }
+}
